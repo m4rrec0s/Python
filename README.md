@@ -1,2 +1,6 @@
-# codigos_python
- Alguns dos meus códigos em python que fiz durante meu estudo da linguagem.
+# munu em python (cadastro de pessoas)
+Um dos meus códigos em python que fiz durante meu estudo da linguagem.
+
+créditos: canal Curso Em Vídeo - Professor Gustavo Guanabara
+
+Esse menu possibilita cadastrar e salvar pessoas em um documento 'txt'. Além disso, é possível visualizar as pessoas salvas no documento, de forma organizada.
